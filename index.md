@@ -2,6 +2,7 @@
 ---
 ## About
 XZProjects CDN is a CDN server for JavaScript modules, assets.
+
 All assets and JavaScript modules are open for use required MIT license.
 
 ---
@@ -18,4 +19,3 @@ For assets, add this to HTML file:
 
 ---
 Copyright (c) XZProjects 2024 - MIT
-Lê Minh Hiếu
