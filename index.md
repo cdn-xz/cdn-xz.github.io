@@ -13,7 +13,7 @@ For JavaScript modules, add this to HTML file:
 For assets, add this to HTML file:
 ```html
 <-- For Image -->
-<img src="https://cdn-xz.github.io/img/imagefilename.png|bmp|svg></img>
+<img src="https://cdn-xz.github.io/img/imagefilename.png|bmp|svg"></img>
 ```
 
 ---
