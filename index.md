@@ -18,3 +18,4 @@ For assets, add this to HTML file:
 
 ---
 Copyright (c) XZProjects 2024 - MIT
+Lê Minh Hiếu
